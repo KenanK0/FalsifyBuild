@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b5ae7c58.css",
+    "main.js": "/static/js/main.aaa15c93.js",
+    "static/js/299.bc03a58c.chunk.js": "/static/js/299.bc03a58c.chunk.js",
+    "static/media/primeicons.svg": "/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/Welcome.png": "/static/media/Welcome.bdc4cc79c329f7b1250c.png",
+    "static/media/primeicons.eot": "/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "/static/media/primeicons.91bacab1f083f2795272.ttf",
+    "static/media/Logo.png": "/static/media/Logo.de4f303df50085f0512e.png",
+    "static/media/devices.svg": "/static/media/devices.4124cc6a001c2ecf2e5c142f78c2a5cb.svg",
+    "index.html": "/index.html",
+    "static/media/dashboard.svg": "/static/media/dashboard.f8bd6edb514ab0294dbdabddcab19b7f.svg",
+    "static/media/allPatients.svg": "/static/media/allPatients.bbf6b436ab433a3cf680682dd0ca24a9.svg",
+    "static/media/bell.svg": "/static/media/bell.445bacc95510709a45dc0aed277ec25d.svg",
+    "static/media/appointments.svg": "/static/media/appointments.1f79dd9c31c2133cd2c816e908a4a039.svg",
+    "static/media/log-out.svg": "/static/media/log-out.b082a7aeebe5658eb82bab3f82291ad7.svg",
+    "static/media/medicalReports.svg": "/static/media/medicalReports.8b712a538c5660899af61149542c9bcd.svg",
+    "static/media/analysis.svg": "/static/media/analysis.f7950d38e700439c4cf4876344fb2bc3.svg",
+    "static/media/chatBubbleOutline.svg": "/static/media/chatBubbleOutline.3ed2c70aad6d999a32d2560ec51696d9.svg",
+    "static/media/messages.svg": "/static/media/messages.28187166341913a5ead5013fe1c9cf77.svg",
+    "main.b5ae7c58.css.map": "/static/css/main.b5ae7c58.css.map",
+    "main.aaa15c93.js.map": "/static/js/main.aaa15c93.js.map",
+    "299.bc03a58c.chunk.js.map": "/static/js/299.bc03a58c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5ae7c58.css",
+    "static/js/main.aaa15c93.js"
+  ]
+}
